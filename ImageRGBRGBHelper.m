@@ -1,6 +1,6 @@
 //
 //  ImageRGBRGBHelper.m
-//  MallCoo
+//  
 //
 //  Created by admin on 14-9-26.
 //  Copyright (c) 2014年 wyj. All rights reserved.
